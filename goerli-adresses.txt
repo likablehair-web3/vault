@@ -1,0 +1,5 @@
+TokenInstance Deployed: @  0x3b4F6C43d3eA95822077CDbE5F5FA266A0D59f23 - non collegato al vault
+
+TokenInstance Deployed: @  0xf2a1C38E63a2EfA835F2e9439cdc9E919669Ec35
+
+VaultInstance Deployed: @  0x96b62bc9A5860D6F5B21061e513391b238e483C7
